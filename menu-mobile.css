@@ -1,5 +1,10 @@
 *{margin: 0; padding: 0; border: none; text-decoration: none; list-style: none; color: #fff;}
-
+:root{
+  --btn-green: #158115;
+  --btn-green-hover: #3fbe3f;
+  --btn-green-active: #063806;
+  --gray: #2d3d46;
+}
 /*HEADER*/
 header{background: #020d13; height: 50px; display: flex; justify-content: space-between; align-items: center; padding: 5px 10px 5px 15px;}
 .links-login{display: flex; align-items: center;}
